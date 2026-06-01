@@ -1,0 +1,9 @@
+/* Footer specific tweaks (kept minimal; Tailwind handles most styling) */
+.footer-link {
+  transition: color 150ms ease;
+}
+
+/* Ensure SVGs inherit text color */
+.footer-icon {
+  color: inherit;
+}
